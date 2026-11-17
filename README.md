@@ -1,4 +1,4 @@
-# Fitting Poisson  distribution
+# EXP2-Fitting Poisson  distribution
 # NAME : DEEPAKKUMAR S
 # REG NO : 212225230042
 # Aim : 
